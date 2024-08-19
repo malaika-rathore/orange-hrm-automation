@@ -1,0 +1,8 @@
+step,test step,excpected result,actual result,status
+1,Loading login screen,login screen loaded successfully,login screen loaded successfully,pass
+2,fill credentials,credentials filled successfully,credentials filled successfully,pass
+3,Login and move to dashboard,Logged in and Dashboard loaded successfully,Logged in and Dashboard loaded successfully,pass
+4,Loading my info page,my info page loaded successfully,my info page loaded successfully,pass
+5,Date of birth value check,Date of birth is already filled,Date of birth is already filled,pass
+6,Date of birth value updated,Date of birth successfully updated,Date of birth successfully updated,pass
+7,Logging out,Logged out successfully,Logged out successfully,pass

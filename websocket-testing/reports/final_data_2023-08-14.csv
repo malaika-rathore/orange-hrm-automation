@@ -1,0 +1,6 @@
+step,test step,excpected result,actual result,status
+1,Creating connection,connection created,connection created,pass
+2,Sending a request for states,request sent successfully,request sent successfully,pass
+3,Recieving response from the server,response recieved successfully,response recieved successfully,pass
+4,verifying data,data is verified,data is verified,pass
+5,Closing connection,connection closed successfully,connection closed successfully,pass
